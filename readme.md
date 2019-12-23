@@ -1,10 +1,10 @@
 ## POEM: Position Enhanced Model for Session-based Recommendation
 
-**Requirements:**
+**Requirements**
 * Python 3.6
 * Pytorch 1.+
 
-## Datasets
+**Datasets**
 
 * YOOCHOOSE: http://2015.recsyschallenge.com/challenge.html
 * DIGINETICA:http://cikm2016.cs.iupui.edu/cikm-cup
