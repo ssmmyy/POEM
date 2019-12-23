@@ -6,9 +6,9 @@
 
 ## Datasets
 
-YOOCHOOSE: http://2015.recsyschallenge.com/challenge.html
-DIGINETICA:http://cikm2016.cs.iupui.edu/cikm-cup
-RETAILROCKET:https://www.kaggle.com/retailrocket/ecommerce-dataset
+* YOOCHOOSE: http://2015.recsyschallenge.com/challenge.html
+* DIGINETICA:http://cikm2016.cs.iupui.edu/cikm-cup
+* RETAILROCKET:https://www.kaggle.com/retailrocket/ecommerce-dataset
 
 **Processing code**
 * python MyGCSANpreprocess.py for the length for session greater than 2
