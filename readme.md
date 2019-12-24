@@ -11,6 +11,6 @@
 * RETAILROCKET:https://www.kaggle.com/retailrocket/ecommerce-dataset
 
 **Processing code**
-* python MyGCSANpreprocess.py for the length for session greater than 2
-* python preprocess.py for the length for session greater than 1
+* python MyGCSANpreprocess.py for the length of session greater than 2
+* python preprocess.py for the length of session greater than 1
 * python preprocess_rr.py for RETAILROCKET dataset before above preprocessing.
