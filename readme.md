@@ -1,4 +1,4 @@
-## POEM: Position Enhanced Model for Session-based Recommendation
+## POEM: Position Order Enhanced Model for Session-based Recommendation Service
 
 **Requirements**
 * Python 3.6
