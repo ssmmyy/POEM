@@ -3,6 +3,7 @@
 **Requirements**
 * Python 3.6
 * Pytorch 1.+
+* Jupyter Notebbok
 
 **Datasets**
 
