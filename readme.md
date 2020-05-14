@@ -1,6 +1,6 @@
 ## POEM: Position Order Enhanced Model for Session-based Recommendation Service
 
-This is the code for the IEEE ICWS 2020 paper: POEM: Position Order Enhanced Model for Session-based Recommendation Service
+This is the code for the IEEE ICWS 2020 paper: **POEM: Position Order Enhanced Model for Session-based Recommendation Service**
 
 **Requirements**
 * Python 3.6
